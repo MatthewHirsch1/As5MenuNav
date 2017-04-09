@@ -1,0 +1,16 @@
+Name: Pork Chops
+Description: Two juicy 8 oz. bone-in pork chops, grilled and seasoned.
+Price: $20.99
+Image: PorkChops.jpg
+Name: Fried Chicken
+Description: Lightly battered and fried golden brown.
+Price: $14.99
+Image: FriedChicken.jpg
+Name: Lasagna
+Description: Homemade pasta layered with bolognese sauce, cheese, and marinara.
+Price: $11.99
+Image: Lasagna.jpg
+Name: Steamed Lobster
+Description: Served with lemon garnish and dipping sauce.
+Price: $29.99
+Image: SteamedLobster.jpg
